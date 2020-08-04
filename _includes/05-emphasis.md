@@ -1,0 +1,1 @@
+I took my first computer science-related course, _AP Computer Science Principles_, my freshman year, and took the AP exam in the spring. In that course, I learned some of the basics of **C, Python, SQL, HTML** and **CSS**. I built on all of these skills this past year while taking _Computer Programming (CP) 1 & 2_. 
