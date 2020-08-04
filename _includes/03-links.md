@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Learn About Daisies](https://www.americanmeadows.com/wildflower-seeds/daisy-seeds/all-about-daisies)
